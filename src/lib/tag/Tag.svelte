@@ -1,5 +1,8 @@
 <div class="py-8 border-t border-black">
-    <h2 class="text-2xl font-semibold">UKRAINE UNDER ATTACK</h2>
+  <a class="btn btn-ghost text-2xl font-semibold  gap-2">UKRAINE UNDER ATTACK 
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-hidden="true" tabindex="-1"><polygon points="10 6 8.59 7.41 13.17 12 8.59 16.59 10 18 16 12"></polygon></svg>
+  </a>
+    
     
     <div class="grid grid-cols-12 gap-4 py-4">
         <div class="col-span-6 grid grid-rows-1 grid-flow-col gap-4">
@@ -7,7 +10,10 @@
                 <figure class="w-auto"><img src="https://api.time.com/wp-content/uploads/2022/07/olena-zelenska-time-interview-06-.jpg?quality=85&crop=0px%2C391px%2C1800px%2C1200px&resize=616,411&strip" alt="Shoes" /></figure>
                 
                 <div class="card-body px-0">
-                <h2 class="card-title text-2xl font-black font-serif">Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War</h2>
+                  
+                  <a href="#" class="link link-hover hover:text-red-500">
+                <h2 class="card-title text-4xl font-serif">Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War</h2>
+                </a>
                 <p class="text-xl">While her husband has focused on securing weapons and other support from the West, Zelenska has found her voice as a wartime leader of a different kind.</p>
                 </div>
             </div>
@@ -17,14 +23,18 @@
             <div class="card w-auto bg-base-100 rounded-none">
                 <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                 <div class="card-body px-0">
+                  <a href="#" class="link link-hover hover:text-red-500">
                   <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                  </a>
                   <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                 </div>
               </div>
               <div class="card w-auto bg-base-100 rounded-none">
                   <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                   <div class="card-body px-0">
+                    <a href="#" class="link link-hover hover:text-red-500">
                     <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                    </a>
                     <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                   </div>
                 </div>
@@ -33,14 +43,18 @@
                 <div class="card w-auto bg-base-100 rounded-none">
                     <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                     <div class="card-body px-0">
+                      <a href="#" class="link link-hover hover:text-red-500">
                       <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                      </a>
                       <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                     </div>
                   </div>
                 <div class="card w-auto bg-base-100 rounded-none">
                     <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                     <div class="card-body px-0">
+                      <a href="#" class="link link-hover hover:text-red-500">
                       <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                      </a>
                       <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                     </div>
                   </div>
