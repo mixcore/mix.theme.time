@@ -2,6 +2,7 @@
 module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
+    "primary": "#e90606",
     extend: {},
     container: {
       center: true,

@@ -30,7 +30,7 @@
 	  </div>
 	  <a class="btn btn-ghost normal-case text-xl text-red-600">TIME</a>
 	</div>
-	<div class="navbar-center hidden lg:flex">
+	<!-- <div class="navbar-center hidden lg:flex">
 	  <ul class="menu menu-horizontal p-0">
 		<li><a>Item 1</a></li>
 		<li tabindex="0">
@@ -45,9 +45,10 @@
 		</li>
 		<li><a>Item 3</a></li>
 	  </ul>
-	</div>
+	</div> -->
 	<div class="navbar-end">
-	  <a class="btn rounded-none">Get started</a>
+		<a class="link-primary rounded-sm px-6 mx-2">SIGN IN</a>
+	  <a class="btn rounded-sm px-6">SUPSCRIBE</a>
 	</div>
   </div>
 

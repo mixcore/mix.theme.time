@@ -18,14 +18,14 @@
                 <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                 <div class="card-body px-0">
                   <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
-                  <p>JULY 21, 2022 • 10:54 PM EDT</p>
+                  <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                 </div>
               </div>
               <div class="card w-auto bg-base-100 rounded-none">
                   <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                   <div class="card-body px-0">
                     <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
-                    <p>JULY 21, 2022 • 10:54 PM EDT</p>
+                    <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                   </div>
                 </div>
             </div>
@@ -34,14 +34,14 @@
                     <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                     <div class="card-body px-0">
                       <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
-                      <p>JULY 21, 2022 • 10:54 PM EDT</p>
+                      <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                     </div>
                   </div>
                 <div class="card w-auto bg-base-100 rounded-none">
                     <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                     <div class="card-body px-0">
                       <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
-                      <p>JULY 21, 2022 • 10:54 PM EDT</p>
+                      <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                     </div>
                   </div>
                 </div>

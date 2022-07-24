@@ -3,7 +3,7 @@
 </script>
 
 <script lang="ts">
-	import Category from '$lib/category/Category.svelte';
+	import Tag from '$lib/tag/Tag.svelte';
 import Counter from '$lib/Counter.svelte';
 import Feature from '$lib/feature/Feature.svelte';
 </script>
@@ -14,7 +14,8 @@ import Feature from '$lib/feature/Feature.svelte';
 </svelte:head>
 
 <Feature/>
-<Category/>
-<Category/>
-<Category/>
-<Category/>
+<Tag/>
+<Tag/>
+<Tag/>
+<Tag/>
+<Tag/>
