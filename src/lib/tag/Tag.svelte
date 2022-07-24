@@ -1,5 +1,5 @@
 <div class="py-8 border-t border-black">
-  <a class="btn btn-ghost text-2xl font-semibold  gap-2">UKRAINE UNDER ATTACK 
+  <a class="btn btn-ghost text-2xl font-semibold gap-2 hover:btn-primary">UKRAINE UNDER ATTACK 
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-hidden="true" tabindex="-1"><polygon points="10 6 8.59 7.41 13.17 12 8.59 16.59 10 18 16 12"></polygon></svg>
   </a>
     

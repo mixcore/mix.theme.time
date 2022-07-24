@@ -2,11 +2,11 @@
     <div class="grid grid-cols-12 gap-4">
         <div class="col-span-9 grid grid-rows-2 grid-flow-col gap-4">
             <div class="card lg:card-side bg-base-100 image-full rounded-none">
-                <figure><img src="https://placeimg.com/400/400/arch" alt="Album"></figure>
+                <figure><img src="https://placeimg.com/400/400/arch" alt="Album" class="max-h-fit"></figure>
                 <div class="card-body">
-                    <a href="#">
-                  <h2 class="card-title font-serif">New album is released!</h2>
-                </a>
+                    <a href="#" class="link link-hover hover:text-red-500">
+                  <h2 class="card-title text-4xl font-serif">Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War</h2>
+                  </a>
                   <p>Click the button to listen on Spotiwhy app.</p>
                   <div class="card-actions justify-end">
                     <button class="btn btn-primary">Listen</button>
@@ -50,25 +50,33 @@
             <ul>
             <li class="card w-auto bg-base-100 rounded-none">
                 <div class="card-body px-0">
-                  <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                    <a href="#" class="link link-hover hover:text-red-500">
+                    <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                    </a>
                   <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                 </div>
               </li>
               <li class="card w-auto bg-base-100 rounded-none">
                   <div class="card-body px-0">
+                    <a href="#" class="link link-hover hover:text-red-500">
                     <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                    </a>
                     <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                   </div>
                 </li>
                 <li class="card w-auto bg-base-100 rounded-none">
                     <div class="card-body px-0">
-                      <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                        <a href="#" class="link link-hover hover:text-red-500">
+                        <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                        </a>
                       <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                     </div>
                   </li>
                   <li class="card w-auto bg-base-100 rounded-none">
                       <div class="card-body px-0">
+                        <a href="#" class="link link-hover hover:text-red-500">
                         <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                        </a>
                         <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                       </div>
                     </li>
