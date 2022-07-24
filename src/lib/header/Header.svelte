@@ -47,8 +47,8 @@
 	  </ul>
 	</div> -->
 	<div class="navbar-end">
-		<a class="link-primary rounded-sm px-6 mx-2">SIGN IN</a>
-	  <a class="btn rounded-sm px-6">SUPSCRIBE</a>
+		<a class="link-primary rounded-sm px-6 mx-2 font-semibold">SIGN IN</a>
+	  <a class="btn btn-primary rounded-sm px-8">SUPSCRIBE</a>
 	</div>
   </div>
 
