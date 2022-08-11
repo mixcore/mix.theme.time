@@ -4,7 +4,7 @@
     <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
   </svg></a>
 </div>
-<div class="">
+<div class="mb-28">
     <div class="grid grid-cols-12 gap-4 py-4">
         <div class="col-span-6 grid grid-rows-1 grid-flow-col gap-4">
             <div class="card w-auto bg-base-100 rounded-none">
