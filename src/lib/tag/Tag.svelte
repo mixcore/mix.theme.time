@@ -1,9 +1,10 @@
-<div class="py-8 border-t border-black">
-  <a class="btn btn-ghost text-2xl font-semibold gap-2 hover:btn-primary">UKRAINE UNDER ATTACK 
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-hidden="true" tabindex="-1"><polygon points="10 6 8.59 7.41 13.17 12 8.59 16.59 10 18 16 12"></polygon></svg>
-  </a>
-    
-    
+<div class=" border-t border-black">
+<a class="btn btn-ghost text-4xl font-normal hover:btn-primary my-4 tracking-tight rounded-none gap-4">UKRAINE UNDER ATTACK 
+  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
+  </svg></a>
+</div>
+<div class="">
     <div class="grid grid-cols-12 gap-4 py-4">
         <div class="col-span-6 grid grid-rows-1 grid-flow-col gap-4">
             <div class="card w-auto bg-base-100 rounded-none">
@@ -12,9 +13,9 @@
                 <div class="card-body px-0">
                   
                   <a href="#" class="link link-hover hover:text-red-500">
-                <h2 class="card-title text-4xl font-serif">Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War</h2>
+                <h2 class="card-title text-4xl font-medium font-serif">Ukraine's First Lady Olena Zelenska Takes On the Trauma Of War</h2>
                 </a>
-                <p class="text-xl">While her husband has focused on securing weapons and other support from the West, Zelenska has found her voice as a wartime leader of a different kind.</p>
+                <p class="text-xl font-light">While her husband has focused on securing weapons and other support from the West, Zelenska has found her voice as a wartime leader of a different kind.</p>
                 </div>
             </div>
         </div>
@@ -24,7 +25,7 @@
                 <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                 <div class="card-body px-0">
                   <a href="#" class="link link-hover hover:text-red-500">
-                  <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                  <h2 class="card-title font-serif font-medium text-xl">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
                   </a>
                   <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                 </div>
@@ -33,7 +34,7 @@
                   <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                   <div class="card-body px-0">
                     <a href="#" class="link link-hover hover:text-red-500">
-                    <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                      <h2 class="card-title font-serif font-medium text-xl">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
                     </a>
                     <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                   </div>
@@ -44,7 +45,7 @@
                     <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                     <div class="card-body px-0">
                       <a href="#" class="link link-hover hover:text-red-500">
-                      <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                        <h2 class="card-title font-serif font-medium text-xl">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
                       </a>
                       <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                     </div>
@@ -53,7 +54,7 @@
                     <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
                     <div class="card-body px-0">
                       <a href="#" class="link link-hover hover:text-red-500">
-                      <h2 class="card-title font-serif">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
+                        <h2 class="card-title font-serif font-medium text-xl">Trump Refused Multiple Requests to Call Off Mob, Jan. 6 Panel Details</h2>
                       </a>
                       <!-- <p>JULY 21, 2022 • 10:54 PM EDT</p> -->
                     </div>
